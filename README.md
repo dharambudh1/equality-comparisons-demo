@@ -1,16 +1,14 @@
-# equatable_demo
+# Equality Comparisons
 
-A new Flutter project.
+## Description:
 
-## Getting Started
+It is a sample code for equality comparison in the Dart. It means comparing two object's properties (all properties) of the same class. 
 
-This project is a starting point for a Flutter application.
+In the Dart, there are two well-known techniques to compare it.
+1. With overriding double equals operator and hash code
+2. With the use of equatable
 
-A few resources to get you started if this is your first Flutter project:
+Note: you can't compare two objects with the double equals operator (without overriding the double equals operator). If you do, it'll surely fail.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/9X7FKbG6/imgonline-com-ua-twotoone-rmzc-Uqmv-CN.png "img")
