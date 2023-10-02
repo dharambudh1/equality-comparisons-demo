@@ -1,4 +1,4 @@
-# Equality Comparisons
+# Equality Comparisons Demo
 
 ## Description:
 
